@@ -1,0 +1,34 @@
+
+
+
+h1{color:red;
+font-style:arial;
+font-size:4em;
+text-align:center;} 
+
+
+body{font-size:100%;
+}
+
+	.l{font-size:1em;
+       width:48%;
+       margin:0 1%;
+	   float:left;}
+	   
+.r{	font-size:1em;
+       width:48%;
+margin:0 1%;
+float:right;}  
+@media screen and (max-width:500px){
+	.l{font-size:1em;
+       width:98%;
+       margin:0 1%;
+	   }
+	   
+.r{	font-size:1em;
+       width:98%;
+margin:0 1%;
+}  
+}
+
+ 
